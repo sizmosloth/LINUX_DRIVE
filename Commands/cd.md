@@ -1,18 +1,18 @@
 # cd
 
 Purpose:
-Used to change the current directory.
+*Used to change the current directory.*
 
 Examples:
 
-# cd Documents
+`cd Documents`
 Go to Documents folder
 
-# cd ..
+`cd ..`
 Go one folder back
 
-# cd ~
+`cd ~`
 Go to home directory
 
 My Notes:
-One of the most commonly used Linux commands.
+*One of the most commonly used Linux commands.

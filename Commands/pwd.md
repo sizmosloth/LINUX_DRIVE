@@ -1,15 +1,15 @@
 # pwd 
 
 Purpose:
-Used to print the current working directory
+*Used to print the current working directory*
 
 Example:
 
-# pwd
+`pwd`
 
 Output:
 
-/home/sizmosloth
+`/home/sizmosloth`
 
 My Notes:
-I use it when i need to copy my directory for moving files or anyother tasks.
+*I use it when i need to copy my directory for moving files or anyother tasks.*
