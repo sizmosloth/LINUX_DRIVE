@@ -5,7 +5,7 @@ Used to print the current working directory
 
 Example:
 
-#pwd
+# pwd
 
 Output:
 
