@@ -5,7 +5,7 @@
 Current OS:
 -Linux Mint XFCE
 
-Hoping of:
+Hoping for:
 -Fedora 🥹
 
 ## Goals
