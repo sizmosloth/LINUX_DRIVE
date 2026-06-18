@@ -1,7 +1,7 @@
 # ping
 
 Purpose:
-`Used to check if another device or website is reachable.`
+*Used to check if another device or website is reachable.*
 
 Examples:
 
