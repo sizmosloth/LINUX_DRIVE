@@ -25,11 +25,7 @@ Examples:
 
 How It Works:
 
-Client
-↓ Request
-Server
-↓ Response
-Client
+Client - Request - Server - Response - Client
 
 My Notes:
 *Most applications work using the client-server model.*
@@ -38,16 +34,8 @@ Real World Example:
 
 Connector:
 
-Browser
-↓
-Client
+Browser - Client
 
-Connector Backend
-↓
-Server
-
-Database
-↓
-Stores Data
+Connector Backend - Server - Database - Stores Data
 
 When I send a message in Connector, the client sends a request to the server and the server stores or returns data.

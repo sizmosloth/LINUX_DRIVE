@@ -22,13 +22,9 @@ PostgreSQL
 
 How It Works:
 
-Computer
-↓
-Port 80 → Website
+Computer - Port 80 → Website
 
-Computer
-↓
-Port 22 → SSH
+Computer - Port 22 → SSH
 
 My Notes:
 *Think of ports as different doors of the same computer.*

@@ -11,13 +11,7 @@ Examples:
 
 How It Works:
 
-Browser
-↓
-DNS Lookup
-↓
-IP Address
-↓
-Server
+Browser - DNS Lookup - IP Address - Server
 
 Without DNS:
 

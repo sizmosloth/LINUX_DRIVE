@@ -11,15 +11,7 @@ Examples:
 
 How It Works:
 
-Client (Browser)
-↓
-HTTP Request
-↓
-Server
-↓
-HTTP Response
-↓
-Client (Browser)
+Client (Browser) - HTTP Request - Server - HTTP Response - Client (Browser)
 
 Common Request Methods:
 
