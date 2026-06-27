@@ -15,15 +15,15 @@ This is called **Root Directory**.
 
 **Think Like This:**
 
-Imagine your computer is a city.
+- Imagine your computer is a city.
 
-The filesystem is the map.
+- The filesystem is the map.
 
-Folders are buildings.
+- Folders are buildings.
 
-Files are things inside those buildings.
+- Files are things inside those buildings.
 
-Everything has its own location.
+- Everything has its own location.
 
 Real World Example:
 
@@ -33,7 +33,7 @@ My Connector project is located at:
 
 Linux follows this path to find my project.
 
-Why is it Important?
+**Why is it Important?**
 
 Every command uses the filesystem.
 
@@ -53,13 +53,13 @@ Shows my current location.
 
 They all work because of the filesystem.
 
-Things to Remember:
+**Things to Remember:**
 
 - Linux starts from `/`
 - Every file has a location.
 - Almost everything in Linux is treated as a file.
 
-Summary:
+**Summary:**
 
 Filesystem = The map of Linux.
 
