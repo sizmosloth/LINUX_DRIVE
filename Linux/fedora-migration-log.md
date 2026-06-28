@@ -58,7 +58,7 @@ Copied Documents, Pictures, and anything important to a pendrive before touching
 ```bash
 sudo apt install gnome-disk-utility -y
 ```
-Used the **Disks** app → Restore Disk Image → selected the Fedora `.iso`.
+Used the **Disks** app - Restore Disk Image - selected the Fedora `.iso`.
 
 ### 3. Verified the ISO wasn't corrupted
 ```bash
