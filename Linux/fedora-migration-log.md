@@ -180,4 +180,5 @@ Windows: deleted. Mint: alive and unbothered the whole time, like it had nothing
 *Also: pendrives are not to be trusted. They will betray you at the worst possible moment, specifically the one time you look away to check your phone. Buy a better pendrive. Or befriend one you've bonded with through trauma, like i have used 8 years old sd card and used a new 2 hours old sd card reader*
 
 Status: survived. Would do again. Probably will, because that's just how dual-booting works.
-Special thanks to : My Pendrive running on hopes and dreams, Chat gpt and Love to Claude. 
+
+*Special thanks to : My Pendrive running on hopes and dreams, Chat gpt and Love to Claude.*
